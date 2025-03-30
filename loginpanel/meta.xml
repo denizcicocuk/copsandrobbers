@@ -1,0 +1,7 @@
+<meta>
+    <info author="Denizcicocuk" version="1.0" name="Login Panel" description="Basic Login Panel Script Made By Denizcicocuk" type="script" />
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <file src="loginmuzik.mp3" />
+
+</meta>
